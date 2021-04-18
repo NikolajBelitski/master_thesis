@@ -9,7 +9,7 @@ The proposed model consists of two parts: the diffusion part and the reaction pa
 Interaction between the diffusion and reaction parts plays the main role pro-viding a possibility to control the result using different initial configurations. This interaction is a central point of the proposed thesis.<br/><br/>
 The big advantage of proposed method is its interactivity and a possibility to use different ”physical” processes for different feature maps. The main disadvantage is its complexity and significant amount of parameters, that nevertheless can be adapted to a particular image domain.<br/><br/>
   </p>
-
+<p><b>Examples</b><br/><br/></p>
 <p align="center">
   <img src="https://github.com/NikolajBelitski/master_thesis/blob/main/images/brain.gif?raw=true">
 </p>
