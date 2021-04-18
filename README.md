@@ -19,6 +19,3 @@ The big advantage of proposed method is its interactivity and a possibility to u
 <p align="center">
   <img src="https://github.com/NikolajBelitski/master_thesis/blob/main/images/zebra_aniso.gif?raw=true">
 </p>
-<p align="center">
-  <img src="https://github.com/NikolajBelitski/master_thesis/blob/main/images/zebra_iso.gif?raw=true">
-</p>
