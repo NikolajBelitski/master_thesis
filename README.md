@@ -1,4 +1,6 @@
-# master_thesis
+<p align="center">
+Clustering with Reaction-Diffusion equations
+</p>
 <p align="center">
   <img src="https://github.com/NikolajBelitski/master_thesis/blob/main/images/brain.gif?raw=true">
 </p>
